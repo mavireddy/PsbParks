@@ -1,0 +1,12 @@
+com\ektha\bizportal\dao\LocationDao.class
+com\ektha\bizportal\dao\TenantDao$1.class
+com\ektha\bizportal\entity\Address.class
+com\ektha\bizportal\dao\TenantDao.class
+com\ektha\bizportal\LocationController.class
+com\ektha\bizportal\dao\LocationDao$1.class
+com\ektha\bizportal\service\TenantService.class
+com\ektha\bizportal\TenantController.class
+com\ektha\bizportal\entity\Tenant.class
+com\ektha\bizportal\entity\Location.class
+com\ektha\bizportal\entity\Contact.class
+com\ektha\bizportal\service\LocationService.class
